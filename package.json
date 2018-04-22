@@ -1,0 +1,22 @@
+{
+  "name": "wjreact",
+  "version": "1.0.0",
+  "description": "A project of react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wj1453/wjReact.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "wj1453",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wj1453/wjReact/issues"
+  },
+  "homepage": "https://github.com/wj1453/wjReact#readme"
+}
